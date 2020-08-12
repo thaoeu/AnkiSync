@@ -1,6 +1,0 @@
-*.pyc
-*.db
-
-/ankisyncd/_version.py
-/collections
-/venv
